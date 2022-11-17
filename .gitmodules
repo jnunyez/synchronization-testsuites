@@ -1,0 +1,6 @@
+[submodule "common/ptp-operator"]
+	path = common/ptp-operator
+	url = git@github.com:openshift/ptp-operator.git
+[submodule "common/cnf-features-deploy"]
+	path = common/cnf-features-deploy
+	url = git@github.com:openshift-kni/cnf-features-deploy.git
